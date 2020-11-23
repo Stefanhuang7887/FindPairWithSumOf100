@@ -1,4 +1,0 @@
-(1, 99) is a unique pair.
-(2, 98) is a unique pair.
-(50, 50) is a unique pair.
-Found 3 unique pairs.
