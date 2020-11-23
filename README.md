@@ -7,5 +7,5 @@ outputs:
   all the unique pairs with sum of 100 
   and on the last line states how many unique pairs are found. 
   
- I have included a couple of sample input files here. 
+ I have included a couple of sample input/output files here. 
 
